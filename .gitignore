@@ -1,0 +1,23 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large data / outputs
+Dataset_raw/
+Dataset/
+Output/
+Application/
+Cellpose/
+
+# Large binaries
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.onnx
