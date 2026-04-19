@@ -16,7 +16,7 @@
 
 ## Demo
 
-![Example prediction](Application/100times_results/visualizations/v1_prediction.png)
+![Example prediction](assets/v1_prediction.png)
 
 
 ## 致谢
